@@ -12,11 +12,11 @@ This is my first portfolio website which is a part of my coding bootcamp homewor
 
 ## Screenshots
 
-![About Me ScreenShot](\assets\images\screencapture-nickpodski-github-io-PortfolioNickpodski-2020-12-21-13_27_31.png)
+![About Me ScreenShot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-2020-12-21-13_27_31.png)
 
-![Portfolio Screenshot](\assets\images\screencapture-nickpodski-github-io-PortfolioNickpodski-portfolio-html-2020-12-21-13_27_58.png)
+![Portfolio Screenshot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-portfolio-html-2020-12-21-13_27_58.png)
 
-![Contact Screenshot](\assets\images\screencapture-nickpodski-github-io-PortfolioNickpodski-contact-html-2020-12-21-13_28_19.png)
+![Contact Screenshot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-contact-html-2020-12-21-13_28_19.png)
 
 ## Links
 
