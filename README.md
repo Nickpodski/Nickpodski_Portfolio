@@ -20,10 +20,10 @@ This is my first portfolio website which is a part of my coding bootcamp homewor
 
 ## Links
 
-https://nickpodski.github.io/PortfolioNickpodski/ - Live URL
-https://nickpodski.github.io/PortfolioNickpodski/portfolio.html - Portfolio Page
-https://nickpodski.github.io/PortfolioNickpodski/contact.html - Contact Page
-https://github.com/Nickpodski/PortfolioNickpodski - Github Repo
+https://nickpodski.github.io/Portfolio_Nickpodski/ - Live URL
+https://nickpodski.github.io/Portfolio_Nickpodski/portfolio.html - Portfolio Page
+https://nickpodski.github.io/Portfolio_Nickpodski/contact.html - Contact Page
+https://github.com/Nickpodski/Portfolio_Nickpodski - Github Repo
 
 ## Credits
 
