@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my first portfolio website which is a part of my coding bootcamp homework. We were practing using Bootstrap as a predfined CSS. We had a general structure to meet. It has 3 pages which are a About Me, Portfolio page, and Contact page. The contact page does't currently do anything. This was merely practicing using Bootstrap to layout my portfolio for future use.
+This is my updated portfolio page. It has an about me page, a page for links to 3 of my projects, and a page to contact me. You can also download my resume, and that bottom of the page is links to a few social media.
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ This is my first portfolio website which is a part of my coding bootcamp homewor
 
 ## Screenshots
 
-![About Me ScreenShot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-2020-12-21-13_27_31.png)
+![About Me ScreenShot](assets/images/AboutMe_SS.png)
 
-![Portfolio Screenshot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-portfolio-html-2020-12-21-13_27_58.png)
+![Portfolio Screenshot](assets/images/Portfolio_SS.png)
 
-![Contact Screenshot](assets/images/screencapture-nickpodski-github-io-PortfolioNickpodski-contact-html-2020-12-21-13_28_19.png)
+![Contact Screenshot](assets/images/Contact_SS)
 
 ## Links
 
@@ -27,5 +27,5 @@ https://github.com/Nickpodski/Portfolio_Nickpodski - Github Repo
 
 ## Credits
 
-https://getbootstrap.com/ - Bootstrap
+https://materializecss.com/ - Materialize
 https://www.w3schools.com/ - W3 Schools
